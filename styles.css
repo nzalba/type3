@@ -1,0 +1,36 @@
+/* Type */
+
+body {
+	background-color: grey;
+	color: white;
+	font-family: 'EB Garamond', serif;
+	line-height: 1;
+    font-size: 3em;
+    text-align: center;
+}
+.new-color {
+	color: blue;
+}
+.other-font {
+	font-family: helvetica,serif;
+}
+
+h1 {
+font-size: 5em;
+    opacity: 0.5;
+    font-stretch: expanded;
+    font-weight: lighter;
+    margin-bottom: 0;
+    margin-top: 0em;
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+h2{
+	font-weight: lighter;
+}
+h3{font-size: .5em;
+}
+
+
+
